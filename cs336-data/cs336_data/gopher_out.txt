@@ -1,0 +1,79 @@
+--- Example 1 ---
+Passes Filter: True
+Text: Kik vagyunk? Írjon nekünk! Hirdessen nálunk! Alapinfo BELÉPÉS | REGISZTRÁCIÓ Nyitóoldal Napjaink Emberek, kapcsolatok Egészség, életmód Környezet védelem Csodálatos világ Tudástár Tudomány, technika M...
+
+--- Example 2 ---
+Passes Filter: False
+Text: 女女VIVO18,国产精品丝袜黑色高跟鞋,国产午夜精品一区二区,国产999精品久久久久久 • <source id="i666m"></source> <center id="i666m"><tr id="i666m"></tr></center> • 歡迎您，來(lái)到杭州琪佑商貿有限公司！ 返回首頁(yè)|在線(xiàn)留言|聯(lián)系我們 全國服務(wù)咨詢(xún)熱線(x...
+
+--- Example 3 ---
+Passes Filter: False
+Text: 又大又紧又粗C欧美成人在线视频,平鲁A区B区C区D区E区,高潮久久久久久久久不卡,丰满女人又爽又紧又丰满 歡迎光臨順達空調設備集團有限公司網(wǎng) ！ 網(wǎng)站地圖 聯(lián)系我們 統(tǒng)一服務熱線 18766098099 • 網(wǎng)站首頁 • • • 防火閥 • • • 抗震支架 • • • 不銹鋼風機 • • • 產(chǎn)品中心 • 不銹鋼風機系列...
+
+--- Example 4 ---
+Passes Filter: False
+Text: 回 首 頁 │ 點數購買 │ 付款方式 │ 加入會員 │會員登入 │主持人登入 │ 線上客服 │使用說明 │ 使用條款 │ 台妹區 | 內地主播區 | 業績排行 | 會員評價 | 包廂線上人數 | 一對多點數 | 一對一點數 | 上線狀態排序 | 網站推薦 | 已審核本人照 | 談情說愛 | 成人視訊 統計時間為星期一至每週星期日，每周日會重新統計數據。 恭喜三月份消費排行前十名會員 獲得免費點數...
+
+--- Example 5 ---
+Passes Filter: False
+Text: • 首页 • 关于我们 • 大巴租车车型 • 商务车租车车型 • 租车须知 • 特惠信息 • 联系我们   • 泰州汽车租赁 • 泰州飞鹤汽车租赁电话18451667000,泰州包车公司,泰州大巴租赁,泰州汽车租赁-泰州商务车出租租赁 网站首页 关于我们 大巴租车车型 商务车租车车型 租车须知 特惠信息 联系我们 在线留言 • 企业文化 • 新闻资讯 • 团队风采 • 门店形像 如何评价泰州...
+
+--- Example 6 ---
+Passes Filter: False
+Text: • 케이타운1번가 방문하기 • LA NY Washington DC San Francisco Chicago Seattle Hawaii Atlanta Philadelphia Toronto • 회원가입 Koreatimes Los Angeles • 홈 • 구인/구직 • 렌트/리스/하숙 • 학생모집 • 사업체매매 • 부동산 • 전문업체 • 중고차 New York •...
+
+--- Example 7 ---
+Passes Filter: False
+Text: logo dark logoo light logo • Home • Services • Content Marketing • Creative Design • Digital Ad Management • Social Media Management • Websites • Apps (iOS and Android) • Search Engine Optimisation • ...
+
+--- Example 8 ---
+Passes Filter: False
+Text: logo 3RTE • Home • Blog • About • Services • Contact • Shop • Cart • Checkout • My account Home / Lixeira / Lixeira com Tampa 35 litros Preta Plasvale Lixeira com Tampa 35 litros Preta Plasvale R$ 47,...
+
+--- Example 9 ---
+Passes Filter: False
+Text: TBM Ditribution Centre AIRPORT INDUSTRIA CITY IMPROVEMENT DISTRICT • Home • About Us • Objective • Management Board and Structure • Newsletters • Documents • Map • COVID-19 • Annual General Meetings •...
+
+--- Example 10 ---
+Passes Filter: False
+Text: 久久久久女人精品毛片,99久久精品无码一区二区毛片,被老外的又粗又大日出了水,一边吃奶一边哭乱抻又乱扭 • <th id="gckmo"></th> • <ul id="gckmo"><center id="gckmo"></center></ul> • 恒溫恒濕試驗(yàn)箱 在線(xiàn)咨詢(xún) 淋雨試驗(yàn)箱 上海林頻儀器股份有限公司Shanghai Linpin Inst...
+
+--- Example 11 ---
+Passes Filter: True
+Text: Ferrovie a Scartamento Ridotto per Railworks Passa al contenuto • Collegamenti Rapidi • FAQ • Login • Indice FAQ (Domande Frequenti) Connessione e registrazione Perché devo registrarmi? Che cosa è COP...
+
+--- Example 12 ---
+Passes Filter: False
+Text: Modüller | Yönergeler | SSS | Terimler | Site Haritası Apache HTTP Sunucusu Sürüm 2.4 <- Apache > HTTP Sunucusu > Belgeleme > Sürüm 2.4 Site Haritası Mevcut Diller: de | en | es | fr | ja | ko | tr | ...
+
+--- Example 13 ---
+Passes Filter: True
+Text: الخميس , أبريل 17 2025 • دخلو الدردشة • سياسة الخصوصية • تقديم شكوى • شروط الاستخدام شات اكابر , شات عربي دردشة عربية بدون اشتراك او تسجيل محانا ,شات اكابرشات اكابر , شات عربي دردشة عربية بدون اشتراك ...
+
+--- Example 14 ---
+Passes Filter: True
+Text: • Przejdź do menu głównego • Przejdź do treści Baner z napisem BAZA AGRO PL | EN • Szukaj • Przeglądaj • Pomoc • O nas • help help PL EN Preferencje help Polish version Polski English version English ...
+
+--- Example 15 ---
+Passes Filter: True
+Text: Bibliotheca Alexandrina Bibliotheca Alexandrina English • عربي • Français Search BA Catalogue • About the BA • Visit us • Tenders • Projects & Activities • Offsites • Sinnari House • Khadija Palace • ...
+
+--- Example 16 ---
+Passes Filter: True
+Text: 會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免...
+
+--- Example 17 ---
+Passes Filter: True
+Text: +90 533 434 08 17 bilgi@amadetabela.com trende Amade Tabela ve Açık Hava Reklam Hizmetleri A.Ş. • Anasayfa • Hakkımızda • Makina Parkurumuz • Hizmetlerimiz • Alüminyum Tabela • Krom Kutu Harf Tabela •...
+
+--- Example 18 ---
+Passes Filter: True
+Text: • À propos • Contact • Boutique Suivre sur Twitter Abonnement RSS Accedez a la boutique ! Page Facebook 8-0.fr logo 8-0 Pinterest : démission du CEO avril 06th, 2012 | Category: Non classé Désormais c...
+
+--- Example 19 ---
+Passes Filter: False
+Text: 内分泌资讯 快速导航 频道 女性 减肥 育儿 保健 美容 妇科 饮食 中医 肿瘤 资讯 男性 诊疗 呼吸科 心血管 肝病科 更多 服务 问医生 就医助手 药品通 疾病百科 名医在线 简单生活 热门疾病 高血压 阴道炎 肩周炎 脂肪肝 小儿咳嗽 糖尿病 健康科普 科普基地 关注39减肥健康运动 查看更多相关内容 取消关注 首页>内分泌与代谢>内分泌资讯 福利彩票论坛/测试版APP-畅享极致娱乐体验 ...
+
+--- Example 20 ---
+Passes Filter: False
+Text: abcdances • Ремонт • Строительство • Дизайн • Советы • Сад • Главная • 2024 • Ноябрь • 18 День: 18.11.2024 • Новости Новый игровой ноутбук Asus ROG G701 получил видеокарту Nvidia GeForce GTX 980 • adm...

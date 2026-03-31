@@ -1,0 +1,83 @@
+--- Example 1 ---
+Predicted Language: ZH (Confidence: 0.9711)
+Text Preview: 會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免...
+
+--- Example 2 ---
+Predicted Language: RU (Confidence: 0.9950)
+Text Preview: kinogo.in.net • Киного • Новинки кино 2023 • Новинки 2023 Смотреть онлайн аниме на КиноГо в хорошем качестве. Страна Италия • По дате • по дате • • по дате • • по году • • по году • • по алфавиту • • ...
+
+--- Example 3 ---
+Predicted Language: IT (Confidence: 0.9944)
+Text Preview: Ferrovie a Scartamento Ridotto per Railworks Passa al contenuto • Collegamenti Rapidi • FAQ • Login • Indice FAQ (Domande Frequenti) Connessione e registrazione Perché devo registrarmi? Che cosa è COP...
+
+--- Example 4 ---
+Predicted Language: ZH (Confidence: 0.9945)
+Text Preview: • 首页 • 关于我们 • 大巴租车车型 • 商务车租车车型 • 租车须知 • 特惠信息 • 联系我们   • 泰州汽车租赁 • 泰州飞鹤汽车租赁电话18451667000,泰州包车公司,泰州大巴租赁,泰州汽车租赁-泰州商务车出租租赁 网站首页 关于我们 大巴租车车型 商务车租车车型 租车须知 特惠信息 联系我们 在线留言 • 企业文化 • 新闻资讯 • 团队风采 • 门店形像 如何评价泰州...
+
+--- Example 5 ---
+Predicted Language: PT (Confidence: 0.9091)
+Text Preview: A VERDADE LIBERTAR-NOS-Á CONFIAR NA INTUIÇÃO INTERNA E EM NÓS MESMOS __________________________ _______________________ _____ Buscar da verdade ... E a Verdade Libertar-nos-á! Maria de Nazaré 2021-11-...
+
+--- Example 6 ---
+Predicted Language: EN (Confidence: 0.6739)
+Text Preview: Skip to content 061 784 8975 | 064 585 446255/46, MoobanBiggerland, Moo 3, Lamlukka, Lamlukka, Pathumthani, 12150 Thailand. Search: Abo Green Solution Abo Green SolutionAbo Green Solution • Home • Abo...
+
+--- Example 7 ---
+Predicted Language: ZH (Confidence: 0.9709)
+Text Preview: <form id="rwjdv"></form> <form id="rwjdv"></form> <em id="rwjdv"></em> <form id="rwjdv"></form> <em id="rwjdv"><p id="rwjdv"><option id="rwjdv"></option></p></em><sub id="rwjdv"></sub><nav id="rwjdv">...
+
+--- Example 8 ---
+Predicted Language: KO (Confidence: 0.9202)
+Text Preview: • 케이타운1번가 방문하기 • LA NY Washington DC San Francisco Chicago Seattle Hawaii Atlanta Philadelphia Toronto • 회원가입 Koreatimes Los Angeles • 홈 • 구인/구직 • 렌트/리스/하숙 • 학생모집 • 사업체매매 • 부동산 • 전문업체 • 중고차 New York •...
+
+--- Example 9 ---
+Predicted Language: EL (Confidence: 0.9999)
+Text Preview: Helpdesk εξΑΕ 1ου ΠΕΚΕΣ Αττικής Υποστηρικτική Ομάδα για την εξ αποστάσεως Εκπαίδευση Μετάβαση στο περιεχόμενο Ειδική αναζήτηση • Γρήγορες συνδέσεις • Αναπάντητα θέματα • Ενεργά θέματα • Αναζήτηση • Συ...
+
+--- Example 10 ---
+Predicted Language: ES (Confidence: 0.6125)
+Text Preview: Saltar al contenido Diapositiva IMG_2642-001 IMG_2642-001 10648409_701053519943824_2624083289634551286_o 10648409_701053519943824_2624083289634551286_o 1277939_558616584187519_582205618_o 1277939_5586...
+
+--- Example 11 ---
+Predicted Language: ZH (Confidence: 0.9849)
+Text Preview: 搜索 • 学校首页 团结 勤奋 文明 进取 • 学校概况 团结 勤奋 文明 进取 学校简介 历史沿革 学校荣誉 学校领导 校园风光 • 机构设置 团结 勤奋 文明 进取 • 党建工作 团结 勤奋 文明 进取 组织建设 纪检之窗 支部活动 规章制度 • 招生就业 团结 勤奋 文明 进取 • 教学工作 团结 勤奋 文明 进取 • 学生工作 团结 勤奋 文明 进取 学工动态 学生园地 日常管理 校园安全...
+
+--- Example 12 ---
+Predicted Language: ZH (Confidence: 0.9375)
+Text Preview: 回首頁點數補給站會員專區加入會員使用說明付款方式問題反映 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6,000 點 No.6 LV68540** -贈...
+
+--- Example 13 ---
+Predicted Language: PL (Confidence: 0.9760)
+Text Preview: AMG24 • Home • O firmie • Usługi • Cięcie laserowe • Cięcie laserowe rur i profili • Spawanie laserowe • Automatyczne gięcie blach • Gięcie blach • Frezowanie CNC • Malowanie proszkowe • Laserowe znak...
+
+--- Example 14 ---
+Predicted Language: AR (Confidence: 0.9947)
+Text Preview: الخميس , أبريل 17 2025 • دخلو الدردشة • سياسة الخصوصية • تقديم شكوى • شروط الاستخدام شات اكابر , شات عربي دردشة عربية بدون اشتراك او تسجيل محانا ,شات اكابرشات اكابر , شات عربي دردشة عربية بدون اشتراك ...
+
+--- Example 15 ---
+Predicted Language: ZH (Confidence: 0.9750)
+Text Preview: 會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免...
+
+--- Example 16 ---
+Predicted Language: EN (Confidence: 0.9537)
+Text Preview: Inside the mind of a Bibliophile • Home • About • About Me • Review Policy • Reading Related • Reading Challenges • Fellow Bibliophiles • The Ones Behind the Books • Writing and Misc. • NaNoWriMo • Li...
+
+--- Example 17 ---
+Predicted Language: ZH (Confidence: 0.7370)
+Text Preview: 久久久久女人精品毛片,99久久精品无码一区二区毛片,被老外的又粗又大日出了水,一边吃奶一边哭乱抻又乱扭 • <th id="gckmo"></th> • <ul id="gckmo"><center id="gckmo"></center></ul> • 恒溫恒濕試驗(yàn)箱 在線(xiàn)咨詢(xún) 淋雨試驗(yàn)箱 上海林頻儀器股份有限公司Shanghai Linpin Inst...
+
+--- Example 18 ---
+Predicted Language: ZH (Confidence: 0.9489)
+Text Preview: 91 PORNY九色 登录 注册 菜单 会员中心 我的收藏 资料设置 退出登录 菜单 首页 视频 蝌蚪 精品 论坛 高清VIP App下载 精选 {{unread}} 还没有VIP邀请码？点这里！ To view this video please enable JavaScript, and consider upgrading to a web browser that 开始你的高清VIP会员...
+
+--- Example 19 ---
+Predicted Language: JA (Confidence: 0.9990)
+Text Preview: APGA 愛知県プロゴルフ協会 Aichi Pro Golf Association TEL080-9111-1969 • Greetingご挨拶 • ご挨拶 • Infomationお知らせやイベント • お知らせ • About usAPGAとは？ • APGAとは？ • 組織概要 • 入会条件 • Competition競技会 • 終了した競技会 • 「2018年グローアップツアー第1戦」G...
+
+--- Example 20 ---
+Predicted Language: CA (Confidence: 0.9543)
+Text Preview: Saltar al contenido AFA Escola Poble-sec Associació de Famílies d'Alumnes de l'Escola Poble-sec AFA Escola Poble-sec • L’AFAMostrar el submenú • Què Fem • Assemblees • ComissionsMostrar el submenú • P...
+
+========================================
+Total English documents: 2 out of 20
+Fraction of English documents: 0.10

@@ -1,0 +1,101 @@
+20 random examples
+
+--- Example 1 ---
+NSFW:  non-nsfw (Score: 0.9996)
+TOXIC: non-toxic (Score: 0.9992)
+TEXT:  • Home • Joinville • Esporte • Saúde • Educação • Variedades • Política • Eleições 2024 • Segurança • Região • Estado • Brasil Menu • Home • Joinville • Esporte • Saúde • Educação • Variedades • Política • Eleições 2024 • Segurança • Região • Estado ...
+
+--- Example 2 ---
+NSFW:  non-nsfw (Score: 0.9992)
+TOXIC: non-toxic (Score: 0.9989)
+TEXT:  OŠ Cankova • Albums VRTEC 2024-25 228 GOSPODIČNA POMLAD 20 PASAVČEK 3 TEDEN SLOVENSKE HRANE IN TRADICIONALNI SLOVENSKI ZAJTRK 37 SREČANJE Z DEDKI IN BABICAMI 82 TEDEN OTROKA 41 EVROPSKI TEDEN MOBILNOSTI 23 MNOŽIČNI TEK OTROK 11 TETKA JESEN 11 ŠOLA 20...
+
+--- Example 3 ---
+NSFW:  non-nsfw (Score: 0.9863)
+TOXIC: non-toxic (Score: 0.9967)
+TEXT:  專打飛機 影音視訊聊天室 依照網站分級規定未滿十八歲者請勿瀏覽 24小時客服專線 : 02-27654066 傳真 : 02-27659081 與我們聯絡 | 加入會員 | 首頁 $賺錢聯盟$ 頻道排行榜 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6...
+
+--- Example 4 ---
+NSFW:  non-nsfw (Score: 0.9876)
+TOXIC: non-toxic (Score: 0.9753)
+TEXT:  會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點...
+
+--- Example 5 ---
+NSFW:  non-nsfw (Score: 0.9998)
+TOXIC: non-toxic (Score: 0.9995)
+TEXT:  • 登录| 注册 | 购物车（0） 设为首页 收藏本站 • 网站首页 • 茗闻天下 公司简介 企业文化 品牌建设 • 新闻资讯 茗闻资讯 领导关怀 • 产品中心 绿茶 红茶 水果 棋牌 餐饮 住宿 垂钓 草鸡、草鸡蛋 精品项目推介 猪肉 蔬菜 • 生态园区 空中看农场 茶叶加工 果园一览 垂钓鱼塘 现代猪场 休闲娱乐 • 在线留言 • 联系我们 联系我们 行车路线 • ABOUT US 茗闻天下 公司简介 企业文化 品牌建设 ECOLOGICAL PARK 生态园区 空中看农场 茶叶加工 果园一...
+
+--- Example 6 ---
+NSFW:  non-nsfw (Score: 0.9999)
+TOXIC: non-toxic (Score: 0.9998)
+TEXT:  Agro TV MoldovaAgro TV Moldova - Moldova BASF 1300×123 31.12.2025 • Principală • Despre noi • Despre AGRO TV Moldova • Echipa AGRO TV Moldova • Agricultură • Social • Cultură • Economie • Industrie • Externe • Emisiuni • Buletin de știri • Actualitat...
+
+--- Example 7 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  • 케이타운1번가 방문하기 • LA NY Washington DC San Francisco Chicago Seattle Hawaii Atlanta Philadelphia Toronto • 회원가입 Koreatimes Los Angeles • 홈 • 구인/구직 • 렌트/리스/하숙 • 학생모집 • 사업체매매 • 부동산 • 전문업체 • 중고차 New York • 홈 • 구인/구직 • 렌트/리스/하숙 • 학생모집 • 사업체매매 • 부동산 • 전문업체 ...
+
+--- Example 8 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  WordPress Training Site • Area 11 Schedules Committee • Area 11 Schedules Committee Guidelines • District 20 • Districts • Gdzie Znaleźć Rzadkie Okazje: Odbierz 100 Euro Bez Depozytu w Wybranych Kasynach Online i Odkryj Tajniki Świat Kasyn • New to A...
+
+--- Example 9 ---
+NSFW:  non-nsfw (Score: 0.9997)
+TOXIC: non-toxic (Score: 0.9999)
+TEXT:   Laos Casinos » Casino Tips • Home • Content • RSS • Log in Casino Tips Online Casino Tips • Home Laos Casinos June 25th, 2019 by Nikhil Leave a reply » 2024 Las Vegas Super Bowl Streaker Read more about the Las Vegas 2024 Super Bowl Streaker! Set a...
+
+--- Example 10 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  女女VIVO18,国产精品丝袜黑色高跟鞋,国产午夜精品一区二区,国产999精品久久久久久 • <source id="i666m"></source> <center id="i666m"><tr id="i666m"></tr></center> • 歡迎您，來(lái)到杭州琪佑商貿有限公司！ 返回首頁(yè)|在線(xiàn)留言|聯(lián)系我們 全國服務(wù)咨詢(xún)熱線(xiàn)： 15700088148 • 網(wǎng)站首頁(yè) • • 關(guān)于我們 ...
+
+--- Example 11 ---
+NSFW:  non-nsfw (Score: 0.9996)
+TOXIC: non-toxic (Score: 0.9997)
+TEXT:  21520cvbeixcvb10319367 Betting Casinos I bet youll do the monkey dance if you spin many monkeys at the beginning of the free spins, betting casinos BC.Game features a cool collection of 25 provably fair games. You will receive one free re-spin whenev...
+
+--- Example 12 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 0.9999)
+TEXT:  AncientVoice Eternal Voices from the past • Wikis • Rigveda • Atharvaveda • Samaveda • Yajurveda • Ramayana • Mahabharata • Vishnupurana • Iliad • Odyssey • Nouns • RigVeda • AtharvaVeda • SamaVeda • SuklaYajurveda • KrishnaYajurVeda • Ramayana • Mah...
+
+--- Example 13 ---
+NSFW:  non-nsfw (Score: 0.9905)
+TOXIC: non-toxic (Score: 0.9836)
+TEXT:  • Przejdź do menu głównego • Przejdź do treści Baner z napisem BAZA AGRO PL | EN • Szukaj • Przeglądaj • Pomoc • O nas • help help PL EN Preferencje help Polish version Polski English version English Język Widoczny [Schowaj] Abstrakt Liczba wyników •...
+
+--- Example 14 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  <form id="rwjdv"></form> <form id="rwjdv"></form> <em id="rwjdv"></em> <form id="rwjdv"></form> <em id="rwjdv"><p id="rwjdv"><option id="rwjdv"></option></p></em><sub id="rwjdv"></sub><nav id="rwjdv"></nav> <wbr id="rwjdv"></wbr><wbr id="rwjdv"><lege...
+
+--- Example 15 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  Agro TV MoldovaAgro TV Moldova - Moldova BASF 1300×123 31.12.2025 • Principală • Despre noi • Despre AGRO TV Moldova • Echipa AGRO TV Moldova • Agricultură • Social • Cultură • Economie • Industrie • Externe • Emisiuni • Buletin de știri • Actualitat...
+
+--- Example 16 ---
+NSFW:  non-nsfw (Score: 0.9784)
+TOXIC: non-toxic (Score: 0.9556)
+TEXT:  會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點...
+
+--- Example 17 ---
+NSFW:  non-nsfw (Score: 0.9902)
+TOXIC: non-toxic (Score: 0.9925)
+TEXT:  恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6,000 點 No.6 LV68540** -贈點5,000 點 No.7 LV37566** -贈點4,000 點 No.8 LV71975** -贈點3,000 點 No.9 LV25850** -贈點...
+
+--- Example 18 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  logo dark logoo light logo • Home • Services • Content Marketing • Creative Design • Digital Ad Management • Social Media Management • Websites • Apps (iOS and Android) • Search Engine Optimisation • Blog • About Us • FAQ • Careers • Contact logo dar...
+
+--- Example 19 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  1KB - Juf Marijke donderdag 30 juni 2016 Hoera voor Leonie! 4 Jaar :-) Gepost door juf marijke op 09:22 Dit e-mailen Dit bloggen!Delen via XDelen op FacebookDelen op Pinterest Geen opmerkingen: Een reactie posten Nieuwere post Oudere post Homepage Ab...
+
+--- Example 20 ---
+NSFW:  non-nsfw (Score: 1.0000)
+TOXIC: non-toxic (Score: 1.0000)
+TEXT:  中国新闻网广西新闻 搜 索 • 首页 • 头条 • 时政外事 • 财经资讯 • 社会法制 • 科教文体 • 港澳台侨 • 东盟时政 • 东盟经济 • 东盟社会 • 东盟文体 • 广西各地 • 旅游消费 • 房地产 • 金融资讯 • 汽车新闻 • 中新视频 • 图片新闻 • 节庆展会 • 健康生活 • 重磅专题 • 外报广西 中新网广西新闻•正文 您的位置：首页>柳州警讯 字号：大中小 收藏 百乐门赌场/平板兼容APP-畅享乐趣，轻松注册体验 发表时间：2025-4-17 15:43:15来源：法...
